@@ -34,7 +34,6 @@ Here's the list of Python modules or packages that are used in this project:
 - r2_score
 - hstack
 - csr_matrix
-- Ridge
 
 # Setting Up the Environment
 
