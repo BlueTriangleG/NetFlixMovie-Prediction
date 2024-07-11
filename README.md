@@ -1,3 +1,7 @@
+# Introduction
+
+This project is used to using data from nexflix to train a machine learning model in order to predict the IMDB scores based on Movies and TV shows' directors, types, contries...
+
 # Project Environment Setup Guide
 
 To ensure the smooth execution of this project, it is necessary to set up the appropriate Python environment. Below is a list of Python packages used in the project and the recommended configuration.
@@ -48,3 +52,7 @@ Use Python 3.8.18
 # Setting Up the Environment with Anaconda3
 
 Use the environment.yml file to create enviornment
+
+# Run the project
+
+Use the main.ipynb to run the project.
